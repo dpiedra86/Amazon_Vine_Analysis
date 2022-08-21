@@ -54,3 +54,12 @@ I the following images we can see how it is very similar to other tools we have 
 ![VIne_A](https://github.com/dpiedra86/Amazon_Vine_Analysis/blob/main/Resources/Vine_Analysis.png)
 >Vine_Analysis
 
+Analysis Summary
+
+1207 total paid reviews.
+with 509 total of paid five start reviews,
+giving a percentage of 42%.
+97839 total paid reviews.
+with 45858 total of paid five start reviews,
+giving a percentage of about 47%.
+
