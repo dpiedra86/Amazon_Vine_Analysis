@@ -22,7 +22,7 @@
 
 ## Customer_Dataframe
 
-![https://github.com/dpiedra86/Amazon_Vine_Analysis/blob/main/Resources/Customer_Df.png)
+![Customer](https://github.com/dpiedra86/Amazon_Vine_Analysis/blob/main/Resources/Customer_Df.png)
 
 >Customer_Dataframe
 
