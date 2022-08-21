@@ -56,10 +56,15 @@ I the following images we can see how it is very similar to other tools we have 
 
 Analysis Summary
 
-1207 total paid reviews.
-with 509 total of paid five start reviews,
-giving a percentage of 42%.
-97839 total paid reviews.
-with 45858 total of paid five start reviews,
-giving a percentage of about 47%.
+- 1207 total paid reviews.
+- 509 total of paid five start reviews.
+- 97839 total paid reviews.
+- 45858 total of paid five start reviews.
+
+Results
+42%  were paid five start reviews whilst 47% were unpaid reviews. 
+
+Results show no bias towards the prorgam.
+
+
 
