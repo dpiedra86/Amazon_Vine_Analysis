@@ -3,8 +3,11 @@
 
 ## Overview
 
+The objective of this module was to understand Bif Data. 
+How it can be manipulated with different techniques and Tools. Google Colab is an online tool very similar to Jupyter Notebook that allows us to connect to different data sources, using the same mechanics, loading libraries. The difference is taht this is entirely online tool, so everytime we would like to create a file we have to import all libraries from the web. 
+Also we learned how to create AWS Databases, setup all the permissions to connect with different tools and mix different techniques like PGadmin, Gcolab and others to analyse our dataframes. 
 
-
+I the following images we can see how it is very similar to other tools we have used before to manipulate data into dataframes. 
 
 ## Getting the Data Base
 
